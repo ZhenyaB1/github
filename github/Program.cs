@@ -11,6 +11,7 @@ namespace github
         static void Main(string[] args)
         {
             Console.WriteLine("Привет, мир");
+            Console.WriteLine("Работа с git, используя Visual Studio 2019");
         }
     }
 }
