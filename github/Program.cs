@@ -11,7 +11,7 @@ namespace github
         // Автор ис Евгений Беляев
         static void MySuperFunction()
         {
-            Console.WriteLine("What an awesome print!");
+            Console.WriteLine("Hello, C#");
         }
         static void Main(string[] args)
         {
