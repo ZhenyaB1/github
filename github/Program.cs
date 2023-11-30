@@ -8,6 +8,10 @@ namespace github
 {
     class Program
     {
+        static void MySuperFunction()
+        {
+            Console.WriteLine("What an awesome print!");
+        }
         static void Main(string[] args)
         {
             Console.WriteLine("Привет, мир");
