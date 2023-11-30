@@ -8,6 +8,7 @@ namespace github
 {
     class Program
     {
+        // Автор ис Евгений Беляев
         static void MySuperFunction()
         {
             Console.WriteLine("What an awesome print!");
