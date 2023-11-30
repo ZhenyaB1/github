@@ -17,6 +17,7 @@ namespace github
             Console.WriteLine("Привет, мир");
             Console.WriteLine("Работа с git, используя Visual Studio 2019");
             Console.WriteLine("Эта строка добавлена в Git");
+            Console.WriteLine(1);
         }
     }
 }
